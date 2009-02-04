@@ -1,0 +1,6 @@
+LCPAL - Leon County Property Appraiser Library
+
+= What it is?
+LCPAL is a Ruby interface to the Leon County Florida property appraiser's web based search. It was conceived by James Akers and started by Joe Martinez as a open source project of the North Florida Ruby Brigade - NoFlaRB.
+
+It's intended purpose is to allow ruby developers to access this public data within their applications.
