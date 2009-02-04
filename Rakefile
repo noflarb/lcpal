@@ -1,5 +1,5 @@
 require 'rake/rdoctask'
-require 'metric_fu'
+# require 'metric_fu'
  
 desc 'Generate rdoc documentation'
 Rake::RDocTask.new(:rdoc) do |rdoc|
